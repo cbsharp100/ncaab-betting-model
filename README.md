@@ -14,3 +14,4 @@ A daily NCAA Men’s Basketball betting board generator using:
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+python validation/validation_checks.py
