@@ -1,0 +1,21 @@
+date,home_team,away_team,model_spread_home,book_spread_home,spread_edge,model_total,book_total,total_edge,p_home_win,model_home_score,model_away_score,best_edge_abs
+2026-02-28,Houston Cougars,Colorado Buffaloes,15.75,-19.5,35.25,143.72,139.5,4.22,0.834,79.7,64.0,35.25
+2026-02-28,UConn Huskies,Seton Hall Pirates,12.81,-13.5,26.31,141.82,130.5,11.32,0.775,77.3,64.5,26.31
+2026-02-28,Auburn Tigers,Ole Miss Rebels,10.07,-10.5,20.57,162.21,152.5,9.71,0.738,86.1,76.1,20.57
+2026-02-28,St. John's Red Storm,Villanova Wildcats,11.32,-7.5,18.82,144.04,146.5,-2.46,0.772,77.7,66.4,18.82
+2026-02-28,Iowa State Cyclones,Texas Tech Red Raiders,8.41,-9.5,17.91,150.56,146.5,4.06,0.706,79.5,71.1,17.91
+2026-02-28,Duke Blue Devils,Virginia Cavaliers,7.39,-10.5,17.89,145.4,141.5,3.9,0.656,76.4,69.0,17.89
+2026-02-28,Arizona Wildcats,Kansas Jayhawks,8.16,-9.5,17.66,150.18,150.5,-0.32,0.68,79.2,71.0,17.66
+2026-02-28,Saint Mary's Gaels,Gonzaga Bulldogs,-14.77,2.5,-17.27,153.0,144.5,8.5,0.177,69.1,83.9,17.27
+2026-02-28,Florida Gators,Arkansas Razorbacks,6.08,-10.5,16.58,162.91,169.5,-6.59,0.656,84.5,78.4,16.58
+2026-02-28,North Carolina Tar Heels,Virginia Tech Hokies,9.56,-6.5,16.06,151.67,149.5,2.17,0.739,80.6,71.1,16.06
+2026-02-28,Cincinnati Bearcats,Oklahoma State Cowboys,5.41,-9.5,14.91,149.03,150.5,-1.47,0.633,77.2,71.8,14.91
+2026-02-28,Penn State Nittany Lions,Iowa Hawkeyes,-3.63,9.5,-13.13,147.3,145.5,1.8,0.393,71.8,75.5,13.13
+2026-02-28,USC Trojans,Nebraska Cornhuskers,-5.81,4.5,-10.31,147.27,147.5,-0.23,0.37,70.7,76.5,10.31
+2026-02-28,West Virginia Mountaineers,BYU Cougars,-6.62,2.5,-9.12,147.79,141.5,6.29,0.344,70.6,77.2,9.12
+2026-02-28,UCF Knights,Baylor Bears,6.09,-2.5,8.59,156.66,159.5,-2.84,0.633,81.4,75.3,8.59
+2026-02-28,Tennessee Volunteers,Alabama Crimson Tide,4.01,-4.5,8.51,162.43,164.5,-2.07,0.598,83.2,79.2,8.51
+2026-02-28,Minnesota Golden Gophers,UCLA Bruins,-1.91,1.5,-3.41,143.15,135.5,7.65,0.453,70.6,72.5,7.65
+2026-02-28,Kentucky Wildcats,Vanderbilt Commodores,3.0,-1.5,4.5,156.78,154.5,2.28,0.587,79.9,76.9,4.5
+2026-02-28,Clemson Tigers,Louisville Cardinals,-1.74,1.5,-3.24,146.92,146.5,0.42,0.462,72.6,74.3,3.24
+2026-02-28,Washington Huskies,Wisconsin Badgers,-1.22,1.5,-2.72,153.59,153.5,0.09,0.455,76.2,77.4,2.72
